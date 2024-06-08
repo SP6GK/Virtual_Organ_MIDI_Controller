@@ -14,6 +14,7 @@ Keys here are switches for your stops or ranks.
   <li>HC595     https://www.arduino.cc/reference/en/libraries/shiftregister74hc595/</li>
 </ul>
 
+![PCB](pcb_mounted.jpg)
 
 <h3>Stable version</h3>
 The stops2713 is a tested version that implements only manual switching of ranks (also coupler, trems, sound effects etc..). This version works on my organ so you shouldn't have troubles with it. Swell is disabled by default, simply uncomment expression function in main loop if you want this device to controll swell pedals as well.
